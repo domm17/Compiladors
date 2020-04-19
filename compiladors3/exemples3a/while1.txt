@@ -1,0 +1,9 @@
+calc off
+
+x := 5
+y:=10
+while((x < 10)or (y>50)) do
+
+  x := x + 1
+  x := y + 1
+done

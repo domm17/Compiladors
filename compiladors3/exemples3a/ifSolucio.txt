@@ -1,0 +1,23 @@
+1: $t00 := 0
+2: i := $t00
+3: $t01 := 10
+4: total := $t01
+5: IF i GTI total GOTO 7
+6: GOTO 10
+7: $t02 := i ADDI total
+8: $t03 := $t02
+9: i := $t03
+10: IF i GTI total GOTO 12
+11: GOTO 19
+12: IF i GTI 40 GOTO 14
+13: GOTO
+14: IF total GEI 50 GOTO 16
+15: GOTO
+16: $t04 := i ADDI total
+17: $t05 := $t04
+18: i := $t05
+19: IF i EQI 20 GOTO 23
+20: GOTO 21
+21: PARAM i
+22: CALL PUTI,1
+23: HALT

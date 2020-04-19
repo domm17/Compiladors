@@ -1,0 +1,16 @@
+ 	MODE PROGRAMA
+
+INT: 50
+WHILE
+Variable: y 
+Comparacio: <
+INT: 1000
+DO
+INT: 123
+INT: 123
+INT: 123
+Variable: y 
+Variable: y 
+INT: 1
+DONE
+

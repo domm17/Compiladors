@@ -1,0 +1,19 @@
+Assignacio INT a:=1     
+
+Assignacio INT b:=2     
+
+Assignacio FLOAT c:=3.30     
+
+Assignacio FLOAT d:=4.40     
+
+Assignacio STRING e:="hola"     
+
+Suma: "hola" + 4.40   = "hola"4.40 
+Assignacio STRING z:="hola"4.40     
+
+Suma: 2 + "hola"   = 2"hola" 
+Assignacio STRING y:=2"hola"     
+
+Suma: 4.40 + "hola"   = 4.40"hola" 
+Assignacio STRING w:=4.40"hola"     
+

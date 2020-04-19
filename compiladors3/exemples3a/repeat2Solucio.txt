@@ -1,0 +1,14 @@
+1: $t00 := 50
+2: total := $t00
+3: $t01 := 20
+4: y := $t01
+5: PARAM total
+6: CALL PUTI,1
+7: $t02 := total ADDI 1
+8: $t03 := $t02
+9: y := $t03
+10: IF y LTI 500 GOTO 5
+11: GOTO 12
+12: IF total LEI 100 GOTO 5
+13: GOTO 14
+14: HALT

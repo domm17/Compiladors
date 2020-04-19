@@ -1,0 +1,18 @@
+calc on
+
+x := 1.5
+i := 5
+z:= 2
+b := z > 3 or not (i > 0 and i <= 10) or false
+z:=3
+y:=5
+c:=5
+a:= z >= y
+t:= c = y
+
+
+
+
+
+
+

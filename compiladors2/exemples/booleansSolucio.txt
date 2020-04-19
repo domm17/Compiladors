@@ -1,0 +1,52 @@
+ 	MODE CALCULADORA
+
+FLOAT: 1.50
+Assignacio-> Tipo:FLOAT x:=1.50     
+
+INT: 5
+Assignacio-> Tipo:INT i:=5     
+
+INT: 2
+Assignacio-> Tipo:INT z:=2     
+
+Variable: z 
+Comparacio: >
+INT: 3
+COMPARACIO: 2 > 3 = false 
+Variable: i 
+Comparacio: >
+INT: 0
+COMPARACIO: 5 > 0 = true 
+Variable: i 
+Comparacio: <=
+INT: 10
+COMPARACIO: 5 <= 10 = true 
+AND: true || true = true 
+FALSE: false
+OR: true && false = true 
+NOT: true = false 
+OR: false && false = false 
+Assignacio-> Tipo:BOOL b:=false     
+
+Variable: z 
+INT: 3
+Assignacio-> Tipo:INT z:=3     
+
+INT: 5
+Assignacio-> Tipo:INT y:=5     
+
+INT: 5
+Assignacio-> Tipo:INT c:=5     
+
+Variable: z 
+Comparacio: >=
+Variable: y 
+COMPARACIO: 3 >= 5 = false 
+Assignacio-> Tipo:BOOL a:=false     
+
+Variable: c 
+Comparacio: =
+Variable: y 
+COMPARACIO: 5 = 5 = true 
+Assignacio-> Tipo:BOOL t:=true     
+

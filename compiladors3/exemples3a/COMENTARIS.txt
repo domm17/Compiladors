@@ -1,0 +1,12 @@
+calc on
+
+//comentari una linea
+
+/*comentari
+  multilinea
+  de 3 lineas*/
+
+//ultim comentari
+
+
+

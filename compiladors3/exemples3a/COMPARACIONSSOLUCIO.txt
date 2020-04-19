@@ -1,0 +1,39 @@
+ 	MODE CALCULADORA
+
+INT: 2
+Comparacio: >
+INT: 2
+COMPARACIO: 2 > 2 = false 
+Expressio-> Tipo:BOOL Valor:false
+
+INT: 4
+Comparacio: >=
+INT: 3
+COMPARACIO: 4 >= 3 = true 
+Expressio-> Tipo:BOOL Valor:true
+
+INT: 1
+Assignacio-> Tipo:INT a:=1     
+
+Variable: a 
+Comparacio: =
+INT: 2
+COMPARACIO: 1 = 2 = false 
+Expressio-> Tipo:BOOL Valor:false
+
+STRING: "hola"
+Comparacio: =
+STRING: "hola"
+COMPARACIO: "hola" = "hola" = true 
+Expressio-> Tipo:BOOL Valor:true
+
+Variable: a 
+Comparacio: >
+INT: 2
+COMPARACIO: 1 > 2 = false 
+INT: 4
+Comparacio: =
+INT: 1
+COMPARACIO: 4 = 1 = false 
+OR: false && 0 = false 
+Assignacio-> Tipo:BOOL x:=false 

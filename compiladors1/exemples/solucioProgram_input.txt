@@ -1,0 +1,39 @@
+Assignacio FLOAT x:=1.50     
+
+Assignacio INT i:=5     
+
+Suma: 1.50 + 5   = 6.50 
+Multiplicacio: 5 * 6.50 = 32.50 
+Divisio: 5 / 4.00 = 1.25 
+Resta: 32.50 - 1.25 = 31.25 
+Assignacio FLOAT z:=31.25     
+
+Assignacio STRING s:="Hola"     
+
+Comentari->  // un comentari 
+
+Expressio FLOAT = 1.50    
+
+Expressio INT = 5    
+
+Expressio FLOAT = 31.25    
+
+Expressio STRING = "Hola"    
+
+Multiplicacio: 3 * 1.00 = 3.00 
+Suma: 17 + 3.00   = 20.00 
+Expressio FLOAT = 20.00    
+
+Comentari Multilinea->  /*
+ cometari multilinea
+*/ 
+
+Multiplicacio: 5 * 2 = 10 
+Suma: 5 + 10   = 15 
+Expressio INT = 15    
+
+Suma: "Hola" + 5   = "Hola"5 
+Suma: "Hola" + "Hola"5   = "Hola""Hola"5 
+Suma: "Hola""Hola"5 + 1.50   = "Hola""Hola"51.50 
+Expressio STRING = "Hola""Hola"51.50    
+

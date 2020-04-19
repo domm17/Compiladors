@@ -1,0 +1,9 @@
+1: $t00 := 3
+2: a := $t00
+3: IF a EQI 3 GOTO 5
+4: GOTO 9
+5: $t01 := a ADDI 1
+6: $t02 := $t01
+7: a := $t02
+8: GOTO 3
+9: HALT

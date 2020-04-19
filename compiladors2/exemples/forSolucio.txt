@@ -1,0 +1,14 @@
+ 	MODE PROGRAMA
+
+INT: 20
+FOR
+IN
+Variable: a 
+INT: 4
+DO
+INT: 222
+INT: 222
+INT: 222
+INT: 222
+DONE
+

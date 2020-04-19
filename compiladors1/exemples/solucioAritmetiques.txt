@@ -1,0 +1,30 @@
+Assignacio INT a:=1     
+
+Assignacio INT b:=2     
+
+Assignacio FLOAT c:=3.30     
+
+Assignacio FLOAT d:=4.40     
+
+Suma: 1 + 2   = 3 
+Expressio INT = 3    
+
+Resta: 1 - 2 = -1 
+Expressio INT = -1    
+
+Multiplicacio: 1 * 3.30 = 3.30 
+Expressio FLOAT = 3.30    
+
+Divisio: 3.30 / 4.40 = 0.75 
+Expressio FLOAT = 0.75    
+
+Logaritme: 4.40 = 1.48 
+Expressio FLOAT = 1.48    
+
+Modul-> 3.30 ** 2 = 1.30 
+Expressio FLOAT = 1.30    
+
+Potencia: 1 ** 4.40 = 0 
+Expressio INT = 0    
+
+

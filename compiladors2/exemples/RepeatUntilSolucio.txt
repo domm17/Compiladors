@@ -1,0 +1,15 @@
+ 	MODE PROGRAMA
+
+INT: 3
+INT: 10
+REPEAT
+INT: 123
+INT: 123
+INT: 123
+Variable: y 
+Variable: y 
+INT: 1
+UNTIL
+Variable: y 
+Comparacio: <=
+Variable: z

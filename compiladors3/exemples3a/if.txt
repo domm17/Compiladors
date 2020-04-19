@@ -1,0 +1,20 @@
+calc off
+
+i := 0
+total:=10
+if (i > total) then
+  i:=i+total
+fi
+
+if ((i > total and i > 40) and (total >= 50 )) then 
+  i:=i+total
+fi
+
+
+if (not i = 20) then 
+ i
+fi
+
+
+
+

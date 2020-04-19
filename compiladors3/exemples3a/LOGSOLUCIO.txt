@@ -1,0 +1,10 @@
+	MODE CALCULADORA
+
+INT: 254
+Logaritme: 254 = 5.54 
+Expressio-> Tipo:FLOAT Valor:5.54
+
+FLOAT: 2.50
+Logaritme: 2.50 = 0.92 
+Expressio-> Tipo:FLOAT Valor:0.92
+

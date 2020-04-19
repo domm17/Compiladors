@@ -1,0 +1,9 @@
+//comentari una linea
+
+//segon comentari
+
+/* comentari
+multilinea
+de tres lineas*/
+
+

@@ -1,0 +1,13 @@
+calc on
+
+x := false
+y := true
+
+x or y
+
+a:=x and y
+
+y:=3>8
+
+
+

@@ -1,0 +1,13 @@
+calc off
+
+y := 50
+
+while(y < 1000) do
+  123
+  123
+  123
+  y := y + 1
+done
+
+
+

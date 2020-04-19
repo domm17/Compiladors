@@ -1,0 +1,10 @@
+	MODE CALCULADORA
+
+Comentari->  //comentari una linea 
+
+Comentari Multilinea->  /*comentari
+  multilinea
+  de 3 lineas*/ 
+
+Comentari->  //ultim comentari 
+

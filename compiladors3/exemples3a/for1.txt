@@ -1,0 +1,11 @@
+calc off
+
+i := 0
+total:=10
+
+
+for (x in total..4) do
+	total
+done
+
+

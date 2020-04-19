@@ -1,0 +1,11 @@
+calc off
+
+total := 20.0
+
+if (total > 20) then
+  i:=total
+else
+  total:=i
+ fi
+
+

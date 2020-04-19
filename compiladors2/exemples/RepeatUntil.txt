@@ -1,0 +1,13 @@
+calc off
+
+y := 3
+z:=10
+
+repeat 
+  123 
+  123 
+  123
+  y := y + 1
+until (y <= z)
+
+

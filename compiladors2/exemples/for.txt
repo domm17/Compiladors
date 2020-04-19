@@ -1,0 +1,10 @@
+calc off
+
+a := 20
+
+for (z in a..4) do
+  222
+  222
+  222
+  222
+done

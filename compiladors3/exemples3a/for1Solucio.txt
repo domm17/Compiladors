@@ -1,0 +1,11 @@
+1: $t00 := 0
+2: i := $t00
+3: $t01 := 10
+4: total := $t01
+5: IF x LT 4 GOTO 7
+6: GOTO 11
+7: PARAM total
+8: CALL PUTI,1
+9: x := x ADDI 1
+10: GOTO 5
+11: HALT

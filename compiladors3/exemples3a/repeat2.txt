@@ -1,0 +1,14 @@
+calc off
+
+total:=50
+
+y:=20
+
+repeat 
+  total
+  y:=total+1
+until ((y < 500) or (total<=100))
+
+
+
+

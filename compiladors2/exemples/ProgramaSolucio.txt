@@ -1,0 +1,49 @@
+	MODE PROGRAMA
+
+Comentari->  // nested sentences 
+
+FLOAT: 0.00
+INT: 1
+WHILE
+Variable: total 
+Comparacio: <
+FLOAT: 1000.00
+DO
+IF
+Variable: i 
+Comparacio: =
+INT: 1
+THEN
+Variable: total 
+Variable: total 
+INT: 2
+ELSE
+Variable: total 
+Variable: total 
+INT: 1
+FI
+Variable: i 
+Variable: i 
+DONE
+Variable: total 
+Comentari->  // números de Fibonacci 
+
+INT: 50
+INT: 1
+Variable: x 
+INT: 1
+Variable: y 
+FOR
+IN
+INT: 3
+Variable: n 
+DO
+Variable: x 
+Variable: y 
+Variable: x 
+Variable: y 
+Variable: y 
+Variable: fib 
+Variable: fib 
+DONE
+

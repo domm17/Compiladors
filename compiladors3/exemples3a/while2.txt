@@ -1,0 +1,9 @@
+calc off
+
+a := 3
+
+while (a = 3) do
+  a:=a+1
+done
+
+

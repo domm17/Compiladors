@@ -1,0 +1,44 @@
+ 	MODE PROGRAMA
+
+INT: 10
+IF
+Variable: z 
+Comparacio: >
+INT: 20
+THEN
+INT: 111
+INT: 111
+INT: 111
+FI
+IF
+Variable: z 
+Comparacio: >
+INT: 20
+THEN
+INT: 111
+INT: 111
+INT: 111
+ELSIF
+Variable: z 
+Comparacio: =
+INT: 20
+THEN
+INT: 222
+INT: 222
+INT: 222
+ELSE
+INT: 333
+INT: 333
+INT: 333
+FI
+INT: 0
+IF
+Variable: b 
+Comparacio: =
+INT: 0
+THEN
+INT: 123
+INT: 123
+INT: 123
+FI
+

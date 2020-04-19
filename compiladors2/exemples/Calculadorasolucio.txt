@@ -1,0 +1,70 @@
+ 	MODE CALCULADORA
+
+Comentari->  // assignacions 
+
+FLOAT: 1.50
+Assignacio-> Tipo:FLOAT x:=1.50     
+
+INT: 5
+Assignacio-> Tipo:INT i:=5     
+
+Variable: i 
+Variable: x 
+Variable: i 
+Suma: 1.50 + 5   = 6.50 
+Multiplicacio: 5 * 6.50 = 32.50 
+Variable: i 
+FLOAT: 4.00
+Divisio: 5 / 4.00 = 1.25 
+Resta: 32.50 - 1.25 = 31.25 
+Assignacio-> Tipo:FLOAT z:=31.25     
+
+Variable: z 
+Comparacio: >
+INT: 3
+COMPARACIO: 31.25 > 3 = true 
+Variable: i 
+Comparacio: >
+INT: 0
+COMPARACIO: 5 > 0 = true 
+Variable: i 
+Comparacio: <=
+INT: 10
+COMPARACIO: 5 <= 10 = true 
+AND: true || true = true 
+FALSE: false
+OR: true && false = true 
+NOT: true = false 
+OR: true && false = true 
+Assignacio-> Tipo:BOOL b:=true     
+
+STRING: "Hola"
+Assignacio-> Tipo:STRING s:="Hola"     
+
+Comentari->  // expressions 
+
+Variable: x 
+Expressio-> Tipo:FLOAT Valor:1.50
+
+Variable: i 
+Variable: i 
+INT: 2
+Multiplicacio: 5 * 2 = 10 
+Suma: 5 + 10   = 15 
+Expressio-> Tipo:INT Valor:15
+
+Variable: s 
+Variable: s 
+Variable: i 
+Suma: "Hola" + 5   = "Hola"5 
+Suma: "Hola" + "Hola"5   = "Hola""Hola"5 
+Variable: x 
+Suma: "Hola""Hola"5 + 1.50   = "Hola""Hola"51.50 
+Expressio-> Tipo:STRING Valor:"Hola""Hola"51.50
+
+Variable booleana: b
+Variable booleana: b
+NOT: true = false 
+OR: true && false = true 
+Expressio-> Tipo:BOOL Valor:true
+
